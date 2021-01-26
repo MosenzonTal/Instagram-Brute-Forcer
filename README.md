@@ -53,6 +53,8 @@
   <img src="https://i.ibb.co/XWb5LCf/PASS.png" width="800" title="hover text">
 </p>
 
+-----
+
 <p align="center">
   <b>© 2020 Tal Mosenzon.  All rights reserved.</b>
 </p>
