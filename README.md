@@ -66,6 +66,8 @@
 
 ### Executing the Program
 
+if the bot has succedded the password will be printed in the Terminal
+
 <p align="center">
   <img src="https://i.ibb.co/XWb5LCf/PASS.png" width="800" title="hover text">
 </p>
