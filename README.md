@@ -71,10 +71,10 @@ in case you dont have, you can install it from here: *https://chromedriver.chrom
 **1. edit** ` passwords.txt ` and add passwords in it <br>
 **2. in main Function:**
   ```java
-       bot = pwdCracking('X',"Y")
-       edit X and Y while:
-	   X is the target username,
-	   and Y is the location of passwords.txt file in your PC
+       bot = pwdCracking('target_username',"path")
+       edit target_username and path while:
+	   target_username is the target username,
+	   and path is the location of passwords.txt file in your PC
 ```
 
 **For Example:** 
