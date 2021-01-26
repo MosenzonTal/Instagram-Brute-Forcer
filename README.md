@@ -35,15 +35,15 @@
 -----
 
 ### Getting Started
-1. **edit** ` passwords.txt ` and add passwords in it
-2. **in main Function:**
+**1.** **edit** ` passwords.txt ` and add passwords in it
+**2.** **in main Function:**
   ```java
        bot = pwdCracking('X',"Y")
        edit X and Y while:
 	   X is the terget username,
 	   and Y is the location of *passwords.txt* file in your PC
 ```
-3. **run** `$ python IG_bruteForce.py`
+**3.** **run** `$ python IG_bruteForce.py`
 
 -----
 
@@ -52,3 +52,14 @@
 <p align="center">
   <img src="https://i.ibb.co/XWb5LCf/PASS.png" width="800" title="hover text">
 </p>
+
+<p align="center">
+  <b>© 2020 Tal Mosenzon.  All rights reserved.</b>
+</p>
+
+<p align="center">
+<img src="https://www.macworld.co.uk/cmsdata/features/3635912/learn_python_mac_thumb800.jpg" width="200" title="hover text">      
+<img src="https://www.selenium.dev/images/selenium_logo_large.png" width="100" title="hover text">  
+</p>
+
+
