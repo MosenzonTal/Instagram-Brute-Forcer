@@ -66,7 +66,7 @@
 
 ### Executing the Program
 
-if the bot has succedded the password will be printed in the Terminal as below:
+if the bot has succedded to Log In, the password will be printed in the Terminal as below:
 
 <p align="left">
   <img src="https://i.ibb.co/XWb5LCf/PASS.png" width="800" title="hover text">
