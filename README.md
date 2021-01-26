@@ -41,11 +41,11 @@
 2. Check passwords for a given username
 3. Brute forcer!
 
------
-
-<p align="center">
+<p align="left">
   <img src="https://qph.fs.quoracdn.net/main-qimg-d3902e82e53e597f440ef1f3754b752c" width="150" title="hover text">
 </p>
+
+-----
 
 ### Getting Started
 **1.** **edit** ` passwords.txt ` and add passwords in it
@@ -61,7 +61,6 @@
 **For Example:** 
 `    bot = pwdCracking('UserName',r"D:\Python\InstagramBot\passwords.txt")
 `
-
 -----
 
 ### Executing the Program
