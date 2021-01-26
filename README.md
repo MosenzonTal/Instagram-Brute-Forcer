@@ -28,7 +28,7 @@
 
 ### Installation
 
-• *install Chromedriver from here:* https://chromedriver.chromium.org/downloads
+• install Chromedriver from here: *https://chromedriver.chromium.org/downloads*
 
 • `pip install selenium`
 
