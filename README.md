@@ -22,9 +22,17 @@
 
     • Python v3.x.x
     • Selenium 
-    •Colorama 
+    • Colorama 
     
 -----
+
+### Installation
+
+`pip install selenium`
+`pip install colorama`
+
+-----
+
 
 ### Features
 
