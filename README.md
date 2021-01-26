@@ -23,10 +23,12 @@
     • Python v3.x.x
     • Selenium 
     • Colorama 
-    
+    • Chromedriver	
 -----
 
 ### Installation
+
+• *install Chromedriver from here:* https://chromedriver.chromium.org/downloads
 
 • `pip install selenium`
 
