@@ -8,7 +8,7 @@
 
 # Instagram Brute Forcer
 
-**This program will brute force any Instagram account you send it. Just give it a target, a passwords list and let it run.**
+**This program will brute force any Instagram account you send it. Just give it a target user, a passwords list and let it run.**
 
 -----
 
