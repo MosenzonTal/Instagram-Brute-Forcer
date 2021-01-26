@@ -33,5 +33,5 @@ class pwdCracking:
 
 
 if __name__ == '__main__':
-    bot = pwdCracking('matangalilove', r"D:\Python\InstagramBot\passwords.txt")
+    bot = pwdCracking('your_userName', r"D:\path\to\file\passwords.txt")
     bot.crackPass()
