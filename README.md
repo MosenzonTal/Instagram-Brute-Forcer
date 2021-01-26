@@ -20,9 +20,9 @@
 
 ### Features
 
-1. Check username existence
-2. Check passwords for a given username
-3. Brute forcer!
+🔵 Check username existence <br>
+🔵 Check passwords for a given username <br>
+🔵 Brute forcer! <br>
 
 <p align="left">
   <img src="https://qph.fs.quoracdn.net/main-qimg-d3902e82e53e597f440ef1f3754b752c" width="150" title="hover text">
