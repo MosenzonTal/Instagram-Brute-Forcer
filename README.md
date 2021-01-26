@@ -18,6 +18,19 @@
 
 
 
+### Features
+
+1. Check username existence
+2. Check passwords for a given username
+3. Brute forcer!
+
+<p align="left">
+  <img src="https://qph.fs.quoracdn.net/main-qimg-d3902e82e53e597f440ef1f3754b752c" width="150" title="hover text">
+</p>
+
+
+
+
 ### Requirements
 
     • Python v3.x.x
@@ -51,17 +64,6 @@ in case you dont have, you can install it from here: *https://chromedriver.chrom
 • `pip install selenium`
 
 • `pip install colorama`
-
-
-### Features
-
-1. Check username existence
-2. Check passwords for a given username
-3. Brute forcer!
-
-<p align="left">
-  <img src="https://qph.fs.quoracdn.net/main-qimg-d3902e82e53e597f440ef1f3754b752c" width="150" title="hover text">
-</p>
 
 
 
