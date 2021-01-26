@@ -73,9 +73,9 @@ in case you dont have, you can install it from here: *https://chromedriver.chrom
   ```java
        bot = pwdCracking('target_username',"path")      
 ```
- edit target_username and path while:
-	   target_username is the target username,
-	   and path is the location of passwords.txt file in your PC
+ **edit target_username and path while:** <br>
+	   *target_username* is the target username,
+	   and *path* is the location of passwords.txt file in your PC
 
 **For Example:** 
 `    bot = pwdCracking('UserName',r"D:\Python\InstagramBot\passwords.txt")
