@@ -21,10 +21,9 @@
 ### Requirements
 
     • Python v3.x.x
-    • selenium `pip install selenium
-`
-    • `pip install colorama
-`
+    • Selenium :` pip install selenium`
+    •Colorama : `pip install colorama`
+
     
 -----
 
