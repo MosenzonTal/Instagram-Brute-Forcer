@@ -58,10 +58,9 @@
 </p>
 
 <p align="center">
+<img src="https://blogvaronis2.wpengine.com/wp-content/uploads/2018/10/brute-force-attack.jpg" width="100" title="hover text"> 
 <img src="https://www.macworld.co.uk/cmsdata/features/3635912/learn_python_mac_thumb800.jpg" width="200" title="hover text">      
-<img src="https://www.selenium.dev/images/selenium_logo_large.png" width="100" title="hover text">  
-	<img src="https://blogvaronis2.wpengine.com/wp-content/uploads/2018/10/brute-force-attack.jpg" width="100" title="hover text">  
-
+<img src="https://www.selenium.dev/images/selenium_logo_large.png" width="100" title="hover text"> 
 </p>
 
 
