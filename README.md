@@ -3,11 +3,11 @@
 	 <img src="https://camo.githubusercontent.com/33453ad2ee8d9398c6452313fc0d49f2f46749d704020e656ea01e59a280b997/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6275696c74253230776974682d53656c656e69756d2d79656c6c6f772e737667" width="120" title="hover text">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="100" title="hover text">
 </p>
 
-# Instagram Brute Forcer
+<h1 align="center"> Instagram Brute Forcer</h1>
 
 **This program will brute force any Instagram account you send it. Just give it a target user, a password list and let it run.**
 
