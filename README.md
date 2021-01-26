@@ -28,8 +28,9 @@
 
 ### Installation
 
-`pip install selenium`
-`pip install colorama`
+• `pip install selenium`
+
+• `pip install colorama`
 
 -----
 
@@ -49,7 +50,7 @@
        bot = pwdCracking('X',"Y")
        edit X and Y while:
 	   X is the terget username,
-	   and Y is the location of *passwords.txt* file in your PC
+	   and Y is the location of *passwords.txt* file in your PC•
 ```
 **3.** **run** `$ python IG_bruteForce.py`
 
