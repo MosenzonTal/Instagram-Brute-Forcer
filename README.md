@@ -44,7 +44,7 @@
 -----
 
 <p align="center">
-  <img src="https://qph.fs.quoracdn.net/main-qimg-d3902e82e53e597f440ef1f3754b752c" width="800" title="hover text">
+  <img src="https://qph.fs.quoracdn.net/main-qimg-d3902e82e53e597f440ef1f3754b752c" width="300" title="hover text">
 </p>
 
 ### Getting Started
@@ -58,6 +58,9 @@
 ```
 **3.** **run** `$ python IG_bruteForce.py`
 
+**For Example:** 
+`    bot = pwdCracking('UserName',r"D:\Python\InstagramBot\passwords.txt")
+`
 -----
 
 ### Executing the Program
