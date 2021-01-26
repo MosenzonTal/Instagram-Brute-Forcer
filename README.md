@@ -11,13 +11,11 @@
 
 **This program will brute force any Instagram account you send it. Just give it a target user, a password list and let it run.**
 
------
 
 ### Usage
 
 ***Usage of IG-Brute-Forcer for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program***
 
------
 
 ### Requirements
 
@@ -25,7 +23,7 @@
     • Selenium 
     • Colorama 
     • Chromedriver	
------
+
 
 ## Clone project
 
@@ -34,7 +32,7 @@ Run in gitbash or terminal :
 
 `$ git clone [url]`
 
------
+
 
 ## Package installation for Windows users
 
@@ -51,8 +49,6 @@ in case you dont have, you can install it from here: *https://chromedriver.chrom
 
 • `pip install colorama`
 
------
-
 
 ### Features
 
@@ -64,7 +60,6 @@ in case you dont have, you can install it from here: *https://chromedriver.chrom
   <img src="https://qph.fs.quoracdn.net/main-qimg-d3902e82e53e597f440ef1f3754b752c" width="150" title="hover text">
 </p>
 
------
 
 ### Getting Started
 **1. edit** ` passwords.txt ` and add passwords in it <br>
@@ -82,7 +77,6 @@ in case you dont have, you can install it from here: *https://chromedriver.chrom
 
 **3.** **run** `$ python IG_bruteForce.py`
 
------
 
 ### Executing the Program
 
@@ -92,7 +86,6 @@ if the bot has succedded to Log In, the password will be printed in the Terminal
   <img src="https://i.ibb.co/XWb5LCf/PASS.png" width="800" title="hover text">
 </p>
 
------
 
 <p align="center">
   <b>© 2020 Tal Mosenzon.  All rights reserved.</b>
