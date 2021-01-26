@@ -27,6 +27,21 @@
     • Chromedriver	
 -----
 
+## Clone project
+
+First you need to fork and then copy the url from clone option
+Run in gitbash or terminal :
+
+`$ git clone [url]`
+
+-----
+
+## Package installation for Windows users
+
+**To install all needed requirements run the following command in the project directory:** <br>
+
+`python -m pip install -r .\requirements.txt`
+
 ### Installation
 
 • Chromedriver is needed.
