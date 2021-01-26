@@ -17,6 +17,7 @@
 ***Usage of IG-Brute-Forcer for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program***
 
 
+
 ### Requirements
 
     • Python v3.x.x
@@ -40,6 +41,8 @@ Run in gitbash or terminal :
 
 `python -m pip install -r .\requirements.txt`
 
+
+
 ### Installation
 
 • Chromedriver is needed.
@@ -61,6 +64,7 @@ in case you dont have, you can install it from here: *https://chromedriver.chrom
 </p>
 
 
+
 ### Getting Started
 **1. edit** ` passwords.txt ` and add passwords in it <br>
 **2. in main Function:**
@@ -76,6 +80,7 @@ in case you dont have, you can install it from here: *https://chromedriver.chrom
 `
 
 **3.** **run** `$ python IG_bruteForce.py`
+
 
 
 ### Executing the Program
