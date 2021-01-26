@@ -56,8 +56,8 @@ in case you dont have, you can install it from here: *https://chromedriver.chrom
   ```java
        bot = pwdCracking('X',"Y")
        edit X and Y while:
-	   X is the terget username,
-	   and Y is the location of *passwords.txt* file in your PC•
+	   X is the target username,
+	   and Y is the location of passwords.txt file in your PC
 ```
 
 **For Example:** 
