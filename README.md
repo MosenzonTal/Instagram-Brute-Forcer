@@ -59,11 +59,12 @@ in case you dont have, you can install it from here: *https://chromedriver.chrom
 	   X is the terget username,
 	   and Y is the location of *passwords.txt* file in your PC•
 ```
-**3.** **run** `$ python IG_bruteForce.py`
 
 **For Example:** 
 `    bot = pwdCracking('UserName',r"D:\Python\InstagramBot\passwords.txt")
 `
+
+**3.** **run** `$ python IG_bruteForce.py`
 
 -----
 
