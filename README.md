@@ -51,8 +51,8 @@ in case you dont have, you can install it from here: *https://chromedriver.chrom
 -----
 
 ### Getting Started
-**1.** **edit** ` passwords.txt ` and add passwords in it
-**2.** **in main Function:**
+**1. edit** ` passwords.txt ` and add passwords in it <br>
+**2. in main Function:**
   ```java
        bot = pwdCracking('X',"Y")
        edit X and Y while:
